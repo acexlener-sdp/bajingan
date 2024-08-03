@@ -92,7 +92,7 @@
 
      Register on ngrok.com
      
-     Write the command on the path /CiLocks
+     Write the command on the path /bajingan
      # ./ngrok authtoken <TOKEN>
 
 
