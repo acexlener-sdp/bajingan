@@ -95,7 +95,7 @@ clear
   15.Kemrekinen FireStore
   99.Mentu No Leng Celeng...
   ${n}"
-  read -p "Aku Bajingan@Bajingan:~# " Piliho Cepet Su!
+  read -p "Aku Bajingan@Bajingan:~# " Piliho Cepet Su
 if [[ $select == 1 ]]; then
   # remove old version
   rm -f "${path}/cilocks" >/dev/null 2>&1
